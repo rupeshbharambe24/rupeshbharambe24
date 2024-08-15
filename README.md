@@ -2,7 +2,7 @@
 <h3 align="center">AI & DS Sophomore at CSMSS, CSCOE</h3>
 
 - 📊 I’m interested in **Web Developement, AI, Android, Cloud, IoT**
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **Web Development and Machine Learning**
 - 📫 How to reach me **rupeshbharambe2004@gmail.com**
 - ⚡ Fun fact **I am an Engineering Student**
 
