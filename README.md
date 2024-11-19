@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I’m Rupesh Bharambe</h1>
-<h3 align="center">AI & DS Sophomore at CSMSS, CSCOE</h3>
+<h3 align="center">AI & DS Pre-Final Year Student at CSMSS, CSCOE</h3>
 
 - 📊 I’m interested in **Web Developement, AI, Android, Cloud, IoT**
 - 🌱 I’m currently learning **Web Development and Machine Learning**
