@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I’m Rupesh Bharambe</h1>
 <h3 align="center">AI & DS Pre-Final Year Student at CSMSS, CSCOE</h3>
 
-- 📊 I’m interested in **Web Developement, AI, Android, Cloud, IoT**
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+- 📊 I’m interested in **AI, Machine Learning, Deep Learning, Robotics, IoT**
+- 🌱 I’m currently learning **Web Development and Deep Learning**
 - 📫 How to reach me **rupeshbharambe2004@gmail.com**
 - ⚡ Fun fact **I am an Engineering Student**
 
