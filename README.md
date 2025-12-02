@@ -81,7 +81,7 @@
 | 🥇 **RACKATHON 2025 Winner** | Face Liveness Detection with custom neural architecture |
 | 🥉 **ORCHATHON 2K25 Finalist** | Built InnoMediX - AI telemedicine platform |
 | 🥈 **Avishkar 2024 Silver** | Electricity Demand Forecasting System |
-| 🚀 **SIH 2024 Finalist** | Developed real-time Electricity Demand Forecasting System |
+| 🚀 **SIH 2024 Winner** | Developed real-time Electricity Demand Forecasting System |
 
 </div>
 
