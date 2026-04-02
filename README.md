@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshbharambe.com-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rupesh-bharambe-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshbharambe.vercel.app-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rupeshbharambe.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-bharambe-056a12257/)
 [![Email](https://img.shields.io/badge/Email-rupeshbharambe2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupeshbharambe2004@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1284519829427978240)
@@ -205,12 +205,12 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshbharambe24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshbharambe24&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rupeshbharambe24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&ring_color=22D3EE" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rupeshbharambe24&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshbharambe24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rupeshbharambe24&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages" />
 </div>
 
 ---
@@ -218,7 +218,7 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 ## 🌐 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/22D3EE/rupeshbharambe24" alt="GitHub Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshbharambe24&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=22D3EE&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -229,7 +229,7 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rupesh-bharambe-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white)](https://rupeshbharambe.vercel.app)
 
 <br/>
 
