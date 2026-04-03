@@ -95,12 +95,12 @@ SARIMAX + Transformer hybrid on 12yr data for Delhi's power grid. GCP deployed w
 <tr>
 <td width="50%">
 
-### 🛰️ MOSDAC-Bot — ISRO Assistant
-[![Repo](https://img.shields.io/badge/GitHub-MOSDAC--Bot-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/MOSDAC-Bot-ISRO)
-![Nodes](https://img.shields.io/badge/Graph-100K+_nodes-blue)
-![Status](https://img.shields.io/badge/Status-Active-22D3EE)
+### 🛰️ SatSage — ISRO Satellite Assistant
+[![Repo](https://img.shields.io/badge/GitHub-SatSage-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/SatSage)
+![Docs](https://img.shields.io/badge/Indexed-828_docs-blue)
+![F1](https://img.shields.io/badge/BERT_F1-0.92-brightgreen)
 
-Knowledge Graph (Neo4j) + LLM + FAISS RAG pipeline for querying ISRO satellite data via natural language.
+Knowledge Graph (Neo4j) + RAG + FAISS + Groq LLM for querying ISRO's MOSDAC satellite data. 12 satellites, 154 data products.
 
 </td>
 <td width="50%">
