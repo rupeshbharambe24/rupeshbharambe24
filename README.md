@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Rupesh+Bharambe;AI%2FML+Engineer+%7C+5x+Hackathon+Winner;SIH'24+Grand+Finale+Winner;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Rupesh+Bharambe;AI%2FML+Engineer+%7C+6x+Hackathon+Winner;NFPC+2026+National+Champion+%7C+SIH'24+Winner;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@ focus: AI/ML • Computer Vision • LLM/RAG • IoT • Full-Stack
 ```
 
 > Final-year AI & Data Science engineer who builds intelligent systems that solve real-world problems.
-> From winning **Smart India Hackathon 2024** to developing **ISRO's satellite data assistant** —
+> From winning **Smart India Hackathon 2024** to becoming **NFPC 2026 National Champion** (₹5L prize, 2000+ participants) —
 > I thrive at the intersection of research and production engineering.
 
 ---
@@ -42,6 +42,7 @@ focus: AI/ML • Computer Vision • LLM/RAG • IoT • Full-Stack
 
 | | Competition | Award | What I Built |
 |---|---|---|---|
+| 🏆 | **NFPC 2026** | **National Champion — RBIH x IIT Delhi** | **Mule account detection — 0.999 AUC-ROC, 400M txns, ₹5L prize** |
 | 🥇 | **Smart India Hackathon 2024** | Grand Finale Winner | EDFS — AI electricity demand forecasting for Delhi's power grid |
 | 🥇 | **@scale AI Hackathon 2026** | Winner — Marathwada | Enterprise AI/ML pipelines on real industry datasets |
 | 🥇 | **RACKATHON 2025** | Winner — GH Raisoni | Face Liveness Detection with custom neural architecture |
@@ -53,7 +54,7 @@ focus: AI/ML • Computer Vision • LLM/RAG • IoT • Full-Stack
 
 </div>
 
-> **5x Hackathon Winner** · **15+ Finalist Finishes** · Featured in **17 newspaper articles** across 10+ publications
+> **6x Hackathon Winner** · **15+ Finalist Finishes** · Featured in **17 newspaper articles** across 10+ publications
 
 ---
 
@@ -73,6 +74,16 @@ Raspberry Pi PyQt HMI · CNC compensation algorithms · SQLite traceability syst
 <tr>
 <td width="50%">
 
+### 🏆 Mule Account Detection Pipeline
+![AUC](https://img.shields.io/badge/AUC--ROC-0.999-brightgreen)
+![Txns](https://img.shields.io/badge/Transactions-400M-blue)
+![NFPC](https://img.shields.io/badge/NFPC_2026-National_Champion-DC2626)
+
+Stacking ensemble (LightGBM + CatBoost + XGBoost) with 615 features, DuckDB streaming on 16GB RAM. Beat 2000+ participants. ₹5L prize.
+
+</td>
+<td width="50%">
+
 ### ⚡ Electricity Demand Forecasting
 [![Repo](https://img.shields.io/badge/GitHub-Gridalytics-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/Gridalytics)
 ![Accuracy](https://img.shields.io/badge/Accuracy-98%25+-brightgreen)
@@ -81,6 +92,8 @@ Raspberry Pi PyQt HMI · CNC compensation algorithms · SQLite traceability syst
 SARIMAX + Transformer hybrid on 12yr data for Delhi's power grid. GCP deployed with auto-retraining.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔐 Face Liveness Detection
