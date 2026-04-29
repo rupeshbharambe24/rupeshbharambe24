@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Rupesh+Bharambe;AI%2FML+Engineer+%7C+6x+Hackathon+Winner;NFPC+2026+National+Champion+%7C+SIH'24+Winner;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Rupesh+Bharambe;AI%2FML+Engineer+%7C+6x+Hackathon+Winner;NFPC+2026+National+Champion;SIH'24+Winner;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
 </a>
 
 <br/>
