@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Rupesh+Bharambe;AI%2FML+Engineer+%7C+6x+Hackathon+Winner;NFPC+2026+National+Champion;SIH'24+Winner;Building+Intelligent+Systems+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B%2C+I'm+Rupesh+Bharambe;Incoming+SDE+%40+RBIH+(RBI+Innovation+Hub);NFPC+2026+National+Winner;SIH'24+Winner+%7C+6x+Hackathon+Champion;AI%2FML+x+Public+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,15 @@
 name: Rupesh Bharambe
 location: Chh. Sambhajinagar, Maharashtra, India
 education: B.Tech AI & Data Science @ CSMSS CSCOE (2022-2026)
+incoming_role: Software Development Engineer @ RBI Innovation Hub (RBIH)
 current_role: Software Engineer Intern @ Biopan Scientific Pvt. Ltd.
 leadership: Vice President — AI & Data Science Students Association
-focus: AI/ML • Computer Vision • LLM/RAG • IoT • Full-Stack
+focus: AI/ML × Public Infrastructure • Fintech • LLM/RAG • Full-Stack
 ```
 
-> Final-year AI & Data Science engineer who builds intelligent systems that solve real-world problems.
-> From winning **Smart India Hackathon 2024** to becoming **NFPC 2026 National Champion** (₹5L prize, 2000+ participants) —
-> I thrive at the intersection of research and production engineering.
+> Final-year AI & Data Science engineer joining **RBI Innovation Hub** as a Software Development Engineer.
+> Winning **NFPC 2026** — RBIH's own national challenge with 2000+ participants and ₹5L prize — was how this story started.
+> I work at the intersection of applied ML and public-infrastructure problems: fraud detection, energy grids, satellite data, healthcare access.
 
 ---
 
@@ -42,9 +43,9 @@ focus: AI/ML • Computer Vision • LLM/RAG • IoT • Full-Stack
 
 | | Competition | Award | What I Built |
 |---|---|---|---|
-| 🏆 | **NFPC 2026** | **National Champion — RBIH x IIT Delhi** | **Mule account detection — 0.999 AUC-ROC, 400M txns, ₹5L prize** |
+| 🏆 | **NFPC 2026** | **National Winner — RBIH × IIT Delhi** | **Mule account detection — 0.999 AUC-ROC on 400M txns, ₹5L prize → SDE offer at RBIH** |
 | 🥇 | **Smart India Hackathon 2024** | Grand Finale Winner | EDFS — AI electricity demand forecasting for Delhi's power grid |
-| 🥇 | **@scale AI Hackathon 2026** | Winner — Marathwada | Enterprise AI/ML pipelines on real industry datasets |
+| 🥇 | **@scale AI Hackathon 2026** | Winner — Marathwada | AURA AI — 4 ML pipelines on real HVAC industry data |
 | 🥇 | **RACKATHON 2025** | Winner — GH Raisoni | Face Liveness Detection with custom neural architecture |
 | 🥉 | **ORCHATHON 2K25** | 3rd Prize — NK Orchid | InnoMediX — AI telemedicine platform |
 | 🏅 | **HackCelestial 2.0** | Top 5 — Pillai College, Mumbai | Satellite data platform |
@@ -59,6 +60,9 @@ focus: AI/ML • Computer Vision • LLM/RAG • IoT • Full-Stack
 ---
 
 ## 💼 Experience
+
+**Incoming Software Development Engineer** — RBI Innovation Hub (RBIH) `Joining soon`
+Public infrastructure for India's financial system · ML for fraud detection, regulatory tech, and financial inclusion
 
 **Software Engineer Intern** — Biopan Scientific Pvt. Ltd. `Oct 2025 — Present`
 Desktop software for scientific instruments (LC, bioreactor, RT-qPCR) · 21 CFR Part 11 compliance · AI/ML analytics
@@ -77,19 +81,19 @@ Raspberry Pi PyQt HMI · CNC compensation algorithms · SQLite traceability syst
 ### 🏆 Mule Account Detection Pipeline
 ![AUC](https://img.shields.io/badge/AUC--ROC-0.999-brightgreen)
 ![Txns](https://img.shields.io/badge/Transactions-400M-blue)
-![NFPC](https://img.shields.io/badge/NFPC_2026-National_Champion-DC2626)
+![NFPC](https://img.shields.io/badge/NFPC_2026-National_Winner-DC2626)
 
-Stacking ensemble (LightGBM + CatBoost + XGBoost) with 615 features, DuckDB streaming on 16GB RAM. Beat 2000+ participants. ₹5L prize.
+Stacking ensemble (LightGBM + CatBoost + XGBoost) with 615 features, DuckDB streaming on 16GB RAM. Beat 2000+ participants. ₹5L prize → led to an SDE offer at RBIH.
 
 </td>
 <td width="50%">
 
-### ⚡ Electricity Demand Forecasting
+### ⚡ Gridalytics — Electricity Demand Forecasting
 [![Repo](https://img.shields.io/badge/GitHub-Gridalytics-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/Gridalytics)
-![Accuracy](https://img.shields.io/badge/Accuracy-98%25+-brightgreen)
+![MAPE](https://img.shields.io/badge/MAPE-0.18%25-brightgreen)
 ![SIH](https://img.shields.io/badge/SIH'24-Winner-orange)
 
-SARIMAX + Transformer hybrid on 12yr data for Delhi's power grid. GCP deployed with auto-retraining.
+7 ML models for Delhi power grid at 5-min/hourly/daily resolution. 93 engineered features, walk-forward CV. Deployed on Vercel + Render + Supabase.
 
 </td>
 </tr>
@@ -97,15 +101,12 @@ SARIMAX + Transformer hybrid on 12yr data for Delhi's power grid. GCP deployed w
 <td width="50%">
 
 ### 🔐 Face Liveness Detection
-[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24)
-![Accuracy](https://img.shields.io/badge/Accuracy-99%25-brightgreen)
+[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/Face-Liveness-Detection)
 ![RACKATHON](https://img.shields.io/badge/RACKATHON-Winner-ff69b4)
 
-477 facial landmarks + mathematical formulae for anti-spoofing. <200ms latency on low-resource devices.
+477 facial landmarks + custom MLP for anti-spoofing. <200ms latency on low-resource devices. MediaPipe blendshape thresholds + offline classifier.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🛰️ SatSage — ISRO Satellite Assistant
@@ -116,35 +117,24 @@ SARIMAX + Transformer hybrid on 12yr data for Delhi's power grid. GCP deployed w
 Knowledge Graph (Neo4j) + RAG + FAISS + Groq LLM for querying ISRO's MOSDAC satellite data. 12 satellites, 154 data products.
 
 </td>
-<td width="50%">
-
-### 🤟 Sign Language Translation
-[![Repo](https://img.shields.io/badge/GitHub-SLDTS-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/SLDTS__Sign-Language-Detection-and-Translation)
-![Accuracy](https://img.shields.io/badge/Accuracy-88%25-brightgreen)
-![Signs](https://img.shields.io/badge/Signs-35-purple)
-
-Real-time ISL sign ↔ text/speech translation using MediaPipe + LSTM for 1.8M+ deaf individuals in India.
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌾 TerraByte — AI + IoT Agriculture
-![Sensors](https://img.shields.io/badge/Sensors-8_types-green)
-![Diseases](https://img.shields.io/badge/Disease_Detection-38_classes-orange)
-![Status](https://img.shields.io/badge/Status-Active-22D3EE)
+### 🐄 VETRA — Cattle Type Classification
+[![Repo](https://img.shields.io/badge/GitHub-VETRA-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/VETRA---App)
+![SIH](https://img.shields.io/badge/SIH'25-Top_5-orange)
 
-Unified platform with 8 sensor types, 38-class crop disease detection (94%), smart irrigation.
+3 YOLO pose models + U-Net + ResNet18 udder classifier + ArUco scaling for NDDB-style trait scoring. Built for Ministry of Fisheries, Animal Husbandry & Dairying.
 
 </td>
 <td width="50%">
 
-### 📊 @scale AI — Enterprise ML
-[![Repo](https://img.shields.io/badge/GitHub-Scale__AI-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/Scale_AI_Webapp)
+### 📊 AURA AI — HVAC Demand Intelligence
+[![Repo](https://img.shields.io/badge/GitHub-AURA_AI-181717?style=flat&logo=github)](https://github.com/rupeshbharambe24/AURA-AI-HVAC-Intelligence)
 ![@scale](https://img.shields.io/badge/@scale_AI-Winner-8B5CF6)
 
-End-to-end ML pipelines with forecasting, anomaly detection, and optimization on real enterprise data.
+4 ML pipelines: demand forecasting (8.4% MAPE), anomaly detection, SciPy/Monte Carlo optimization ($13M profit uplift), market share NLP. Full-stack FastAPI + React dashboard.
 
 </td>
 </tr>
@@ -162,6 +152,9 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFD700?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -171,6 +164,7 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -183,13 +177,14 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Cloud & DevOps**
@@ -198,9 +193,9 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 **Tools & Hardware**
 
@@ -238,7 +233,7 @@ End-to-end ML pipelines with forecasting, anomaly detection, and optimization on
 
 <div align="center">
 
-**Open to:** `Full-time Roles` · `Hackathons` · `Research Collaborations` · `Open Source`
+**Open to:** `Research Collaborations` · `Hackathons` · `Open Source` · `Speaking & Workshops`
 
 <br/>
 
