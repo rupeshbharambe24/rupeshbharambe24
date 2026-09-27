@@ -25,8 +25,7 @@
 name: Rupesh Bharambe
 location: Chh. Sambhajinagar, Maharashtra, India
 education: B.Tech AI & Data Science @ CSMSS CSCOE (2022-2026)
-incoming_role: Software Development Engineer @ RBI Innovation Hub (RBIH)
-current_role: Software Engineer Intern @ Biopan Scientific Pvt. Ltd.
+current_role: SDE @ RBI Innovation Hub (RBIH)
 leadership: Vice President — AI & Data Science Students Association
 focus: AI/ML × Public Infrastructure • Fintech • LLM/RAG • Full-Stack
 ```
